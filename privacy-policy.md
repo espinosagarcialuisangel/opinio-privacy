@@ -1,6 +1,6 @@
 Política de Privacidad – Opinio
 
-Última actualización: 10/01/2026
+Última actualización: 02/01/2026
 
 Opinio ("la aplicación") respeta la privacidad de sus usuarios y se compromete a proteger la información personal que se recopila a través del uso de la aplicación.
 
