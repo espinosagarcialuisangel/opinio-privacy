@@ -60,4 +60,4 @@ Esta política puede actualizarse ocasionalmente. Se recomienda revisar esta pá
 
 Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos en:
 
-📧 espinosagarcialuisangel@gmail.com
+📧 opinio.contact@gmail.com
