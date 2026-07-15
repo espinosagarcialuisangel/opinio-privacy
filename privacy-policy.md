@@ -1,63 +1,55 @@
-Política de Privacidad – Opinio
+Política de Privacidad de Opinio
 
-Última actualización: 02/01/2026
+Última actualización: 14/07/2026
 
-Opinio ("la aplicación") respeta la privacidad de sus usuarios y se compromete a proteger la información personal que se recopila a través del uso de la aplicación.
+Opinio respeta tu privacidad. Esta Política de Privacidad explica cómo recopilamos, utilizamos y protegemos la información de los usuarios al utilizar nuestra aplicación.
 
 1. Información que recopilamos
 
-La aplicación puede recopilar la siguiente información:
+Podemos recopilar los siguientes datos:
 
-Información de autenticación (como ID de usuario) mediante Firebase Authentication
-
-Datos relacionados con el uso de la aplicación (puntos obtenidos, progreso, recompensas)
-
-Información necesaria para mostrar encuestas de terceros
-
-No recopilamos información personal sensible como direcciones físicas, números de teléfono o información bancaria.
-
+Nombre, correo electrónico, UID e información básica asociada a tu cuenta cuando utilizas Google Sign-In.
+Información relacionada con el uso de la aplicación.
+Puntos acumulados, historial de recompensas y actividad dentro de Opinio.
+Información necesaria para procesar solicitudes de recompensas.
 2. Uso de la información
 
-La información recopilada se utiliza para:
+Utilizamos la información recopilada para:
 
-Autenticar usuarios
-
-Guardar el progreso y los puntos obtenidos
-
-Mostrar encuestas personalizadas
-
-Mejorar la experiencia del usuario
-
-Prevenir fraudes y abusos
-
+Crear y administrar tu cuenta.
+Guardar tu progreso y puntos obtenidos.
+Procesar recompensas y solicitudes de retiro.
+Mejorar la experiencia de usuario.
+Mantener la seguridad y prevenir actividades fraudulentas.
 3. Servicios de terceros
 
-Opinio utiliza servicios de terceros que pueden recopilar información de acuerdo con sus propias políticas de privacidad:
+Opinio utiliza servicios proporcionados por terceros, incluyendo:
 
-Firebase (Google LLC)
-Autenticación, base de datos y análisis
-https://firebase.google.com/support/privacy
+Firebase de Google para autenticación y almacenamiento de datos.
+Google Sign-In para facilitar el acceso a la cuenta.
+Google AdMob para mostrar anuncios.
+CPX Research y otros proveedores externos para proporcionar encuestas.
 
-CPX Research
-Proveedor de encuestas y recompensas
-https://www.cpx-research.com/privacy-policy/
+Estos servicios pueden recopilar y procesar información según sus propias políticas de privacidad.
 
-Estos servicios pueden recopilar datos técnicos necesarios para su funcionamiento.
+4. Publicidad
 
-4. WebView
-
-La aplicación muestra contenido externo mediante WebView. El contenido mostrado pertenece a terceros y está sujeto a sus propias políticas de privacidad.
+Opinio utiliza Google AdMob para mostrar anuncios. AdMob puede recopilar información del dispositivo, identificadores publicitarios y datos relacionados con la interacción con anuncios para proporcionar y mejorar sus servicios publicitarios.
 
 5. Seguridad
 
-Tomamos medidas razonables para proteger la información del usuario y evitar accesos no autorizados.
+Implementamos medidas técnicas y organizativas razonables para proteger la información de los usuarios. Sin embargo, ningún método de almacenamiento electrónico es completamente seguro.
 
-6. Cambios en esta política
+6. Eliminación de cuenta
 
-Esta política puede actualizarse ocasionalmente. Se recomienda revisar esta página periódicamente.
+Los usuarios pueden solicitar la eliminación de su cuenta desde la aplicación. La eliminación puede provocar la pérdida permanente de puntos, historial y datos asociados a la cuenta.
 
-7. Contacto
+7. Cambios en esta política
 
-Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos en:
+Podemos actualizar esta Política de Privacidad ocasionalmente. Cualquier cambio será publicado en esta página.
 
-📧 opinio.contact@gmail.com
+8. Contacto
+
+Si tienes preguntas sobre esta Política de Privacidad puedes contactarnos:
+
+opinio.contact@gmail.com
